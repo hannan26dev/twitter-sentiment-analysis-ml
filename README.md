@@ -116,13 +116,13 @@ The following machine learning models were evaluated for Twitter sentiment class
 
 ### Visualizations Included
 - Accuracy Comparison Graph
-- <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/c6922b51-f00b-4c24-9875-63857897b29c" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/c6922b51-f00b-4c24-9875-63857897b29c" />
 
 - Confusion Matrix Heatmap
-- <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/e1420547-00d9-4f93-85b0-a4290ad03f3d" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/e1420547-00d9-4f93-85b0-a4290ad03f3d" />
 
 - Classification Report Heatmap
-- <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/c031c391-9ff5-43dc-ab41-3b871b3930f7" />
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/c031c391-9ff5-43dc-ab41-3b871b3930f7" />
 
 - ROC Curve Analysis
-- <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/47c8c376-0a8e-4093-9b00-db651358395d" />
+ <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/47c8c376-0a8e-4093-9b00-db651358395d" />
